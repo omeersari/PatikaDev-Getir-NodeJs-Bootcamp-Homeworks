@@ -1,1 +1,3 @@
-# PatikaDev-Getir-NodeJs-Bootcamp-Homeworks
+# Information
+
+You can find the homeworks from NodeJS bootcamp (Patika.Dev and Getir)
